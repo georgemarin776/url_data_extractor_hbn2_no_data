@@ -1,0 +1,581 @@
+{
+    "Live Plant and Animal Material and Accessories and Supplies": [
+        "Live chrysanthemums",
+        "Live rose bushes",
+        "Animal feed",
+        "Fresh cut greenery",
+        "Fertilizers and plant nutrients and herbicides",
+        "Seeds and bulbs and seedlings and cuttings",
+        "Fresh cut floral bouquets",
+        "Fresh cut blooms of low species or variety count flowers",
+        "Live carnations",
+        "Live plants of high species or variety count flowers",
+        "Animal containment and habitats",
+        "Dried cut chrysanthemums",
+        "Pest control products",
+        "Fresh cut carnations",
+        "Dried cut roses",
+        "Dried cut blooms of low species or variety count flowers",
+        "Live orchids",
+        "Floriculture and silviculture products",
+        "Dried cut blooms of high species or variety count flowers",
+        "Domestic pet products",
+        "Fresh cut orchids",
+        "Live plants of low species or variety count flowers",
+        "Dried cut orchids",
+        "Fresh cut rose",
+        "Live animals",
+        "Saddlery and harness goods",
+        "Dried cut carnations",
+        "Fresh cut blooms of high species or variety count flowers",
+        "Fresh cut chrysanthemums"
+    ],
+    "Mineral and Textile and Inedible Plant and Animal Materials": [
+        "Non edible animal products",
+        "Fabrics and leather materials",
+        "Metal oxide",
+        "Non edible plant and forestry products",
+        "Fibers and threads and yarns",
+        "Minerals and ores and metals",
+        "Scrap and waste materials",
+        "Earth and stone",
+        "Metal waste scrap and by products",
+        "Alloys"
+    ],
+    "Chemicals including Bio Chemicals and Gas Materials": [
+        "Waxes and oils",
+        "Solvents",
+        "Colorants",
+        "Pharmaceutical drug precursors",
+        "Compounds and mixtures",
+        "Explosive materials",
+        "Additives",
+        "Elements and gases"
+    ],
+    "Resin and Rosin and Rubber and Foam and Film and Elastomeric Materials": [
+        "Rubber and elastomers",
+        "Resins and rosins and other resin derived materials"
+    ],
+    "Paper Materials and Products": [
+        "Industrial use papers",
+        "Paper products",
+        "Paper materials"
+    ],
+    "Fuels and Fuel Additives and Lubricants and Anti corrosive Materials": [
+        "Fuels",
+        "Fuel for nuclear reactors",
+        "Lubricants and oils and greases and anti corrosives",
+        "Gaseous fuels and additives"
+    ],
+    "Mining and Well Drilling Machinery and Accessories": [
+        "Oil and gas drilling and exploration equipment",
+        "Oil and gas drilling and operation materials",
+        "Well drilling and operation equipment",
+        "Mining and quarrying machinery and equipment",
+        "Oil and gas operating and production equipment"
+    ],
+    "Farming and Fishing and Forestry and Wildlife Machinery and Accessories": [
+        "Fishing and aquaculture equipment",
+        "Agricultural and forestry and landscape machinery and equipment"
+    ],
+    "Building and Construction Machinery and Accessories": [
+        "Heavy construction machinery and equipment"
+    ],
+    "Industrial Manufacturing and Processing Machinery and Accessories": [
+        "Chicken processing machinery and equipment",
+        "Mixers and their parts and accessories",
+        "Sawmilling and lumber processing machinery and equipment",
+        "Electronic manufacturing machinery and equipment and accessories",
+        "Industrial process machinery and equipment and supplies",
+        "Metal forming machinery and accessories",
+        "Metal treatment machinery",
+        "Leatherworking repairing machinery and equipment",
+        "Foundry machines and equipment and supplies",
+        "Welding and soldering and brazing machinery and accessories and supplies",
+        "Petroleum processing machinery",
+        "Metal cutting machinery and accessories",
+        "Mass transfer equipment",
+        "Raw materials processing machinery",
+        "Textile and fabric machinery and accessories",
+        "Wire machinery and equipment",
+        "Industrial food and beverage equipment",
+        "Rapid prototyping machinery and accessories",
+        "Industrial machine tools",
+        "Lapidary machinery and equipment"
+    ],
+    "Material Handling and Conditioning and Storage Machinery and their Accessories and Supplies": [
+        "Industrial refrigeration",
+        "Material handling machinery and equipment",
+        "Containers and storage",
+        "Packing supplies",
+        "Packaging materials"
+    ],
+    "Commercial and Military and Private Vehicles and their Accessories and Components": [
+        "Marine transport",
+        "Non motorized cycles",
+        "Motor vehicles",
+        "Aerospace systems and components and equipment",
+        "Spacecraft",
+        "Transportation components and systems",
+        "Aircraft",
+        "Railway and tramway machinery and equipment",
+        "Vehicle bodies and trailers",
+        "Transportation services equipment"
+    ],
+    "Power Generation and Distribution Machinery and Accessories": [
+        "Atomic and nuclear energy machinery and equipment",
+        "Electrical wire and cable and harness",
+        "Power sources",
+        "Batteries and generators and kinetic power transmission",
+        "Power generation"
+    ],
+    "Tools and General Machinery": [
+        "Automotive specialty tools",
+        "Pneumatic machinery and equipment",
+        "Hand tools",
+        "Hydraulic machinery and equipment"
+    ],
+    "Structures and Building and Construction and Manufacturing Components and Supplies": [
+        "Construction and maintenance support equipment",
+        "Exterior finishing materials",
+        "Insulation",
+        "Underground mining structures and materials",
+        "Doors and windows and glass",
+        "Structural building products",
+        "Concrete and cement and plaster",
+        "Plumbing fixtures",
+        "Roads and landscape",
+        "Portable Structure Building Components",
+        "Interior finishing materials",
+        "Structural components and basic shapes",
+        "Structural materials"
+    ],
+    "Manufacturing Components and Supplies": [
+        "Refractories",
+        "Extrusions",
+        "Hardware",
+        "Machined extrusions",
+        "Moldings",
+        "Adhesives and sealants",
+        "Magnets and magnetic materials",
+        "Forgings",
+        "Fabricated bar stock assemblies",
+        "Rope and chain and cable and wire and strap",
+        "Packings glands boots and covers",
+        "Stampings and sheet components",
+        "Fabricated sheet assemblies",
+        "Machined castings",
+        "Seals",
+        "Machined raw stock",
+        "Bearings and bushings and wheels and gears",
+        "Fabricated tube assemblies",
+        "Machined forgings",
+        "Paints and primers and finishes",
+        "Fabricated plate assemblies",
+        "Gaskets",
+        "Machine made parts",
+        "Pneumatic and hydraulic and electric control systems",
+        "Castings and casting assemblies",
+        "Housings and cabinets and casings",
+        "Sintered parts",
+        "Grinding and polishing and smoothing materials",
+        "Fabricated structural assemblies",
+        "Industrial optics",
+        "Machinings",
+        "Fabricated pipe assemblies",
+        "Dyeing and tanning extracts"
+    ],
+    "Electronic Components and Supplies": [
+        "Printed circuits and integrated circuits and microassemblies",
+        "Electronic hardware and component parts and accessories",
+        "Electron tube devices and accessories",
+        "Passive discrete components",
+        "Automation control devices and components and accessories",
+        "Discrete semiconductor devices"
+    ],
+    "Electrical Systems and Lighting and Components and Accessories and Supplies": [
+        "Electrical wire management devices and accessories and supplies",
+        "Electrical equipment and components and supplies",
+        "Lamps and lightbulbs and lamp components",
+        "Lighting Fixtures and Accessories"
+    ],
+    "Distribution and Conditioning Systems and Equipment and Components": [
+        "Heating and ventilation and air circulation",
+        "Industrial filtering and purification",
+        "Fluid and gas distribution",
+        "Industrial pumps and compressors",
+        "Tubes tubing and tube fittings",
+        "Pipe piping and pipe fittings"
+    ],
+    "Laboratory and Measuring and Observing and Testing Equipment": [
+        "Measuring and observing and testing instruments",
+        "Laboratory and scientific equipment",
+        "Laboratory supplies and fixtures"
+    ],
+    "Medical Equipment and Accessories and Supplies": [
+        "Independent living aids for the physically challenged",
+        "Wound care products",
+        "Emergency and field medical services products",
+        "Medical diagnostic imaging and nuclear medicine products",
+        "Medical apparel and textiles",
+        "Medical facility products",
+        "Postmortem and mortuary equipment and supplies",
+        "Respiratory and anesthesia and resuscitation products",
+        "Dental equipment and supplies",
+        "Dialysis equipment and supplies",
+        "Medical training and education supplies",
+        "Physical and occupational therapy and rehabilitation products",
+        "Patient care and treatment products and supplies",
+        "Clinical nutrition",
+        "Surgical products",
+        "Medical sterilization products",
+        "Veterinary equipment and supplies",
+        "Intravenous and arterial administration products",
+        "Orthopedic surgical implants",
+        "Patient exam and monitoring products",
+        "Orthopedic and prosthetic and sports medicine products"
+    ],
+    "Information Technology Broadcasting and Telecommunications": [
+        "Data Voice or Multimedia Network Equipment or Platforms and Accessories",
+        "Communications Devices and Accessories",
+        "Computer Equipment and Accessories",
+        "Components for information technology or broadcasting or telecommunications",
+        "Software"
+    ],
+    "Office Equipment and Accessories and Supplies": [
+        "Office supplies",
+        "Office machines and their supplies and accessories",
+        "Office and desk accessories"
+    ],
+    "Printing and Photographic and Audio and Visual Equipment and Supplies": [
+        "Audio and visual presentation and composing equipment",
+        "Photographic filmmaking supplies",
+        "Printing and publishing equipment",
+        "Photographic and recording media",
+        "Photographic or filming or video equipment"
+    ],
+    "Defense and Law Enforcement and Security and Safety Equipment and Supplies": [
+        "Missiles",
+        "Launchers",
+        "Conventional war weapons",
+        "Public safety and control",
+        "Security surveillance and detection",
+        "Fire protection",
+        "Personal safety and protection",
+        "Military weapon and ammunition disarmament and disposal equipment and related products",
+        "Light weapons and ammunition",
+        "Law enforcement",
+        "Defense and law enforcement and security and safety training equipment",
+        "Rockets and subsystems",
+        "Workplace safety equipment and supplies and training materials"
+    ],
+    "Cleaning Equipment and Supplies": [
+        "Cleaning and janitorial supplies",
+        "Water and wastewater treatment supply and disposal",
+        "Janitorial equipment",
+        "Industrial laundry and dry cleaning equipment"
+    ],
+    "Service Industry Machinery and Equipment and Supplies": [
+        "Vending machines",
+        "Funeral equipment and materials",
+        "Institutional food services equipment",
+        "Gambling or wagering equipment"
+    ],
+    "Sports and Recreational Equipment and Supplies and Accessories": [
+        "Recreation and playground and swimming and spa equipment and supplies",
+        "Other sports",
+        "Gymnastics and boxing equipment",
+        "Sports equipment and accessories",
+        "Target and table games and equipment",
+        "Fitness equipment",
+        "Field and court sports equipment",
+        "Fishing and hunting equipment",
+        "Winter sports equipment",
+        "Camping and outdoor equipment and accessories",
+        "Watersports equipment",
+        "Collectibles and awards"
+    ],
+    "Food Beverage and Tobacco Products": [
+        "Meat and poultry products",
+        "Dried fruit",
+        "Canned or jarred Non GMO vegetables",
+        "Bread and bakery products",
+        "Organic fresh fruits",
+        "Beverages",
+        "Seafood",
+        "Fresh fruit purees",
+        "Canned or jarred organic vegetables",
+        "Chocolate and sugars and sweeteners and confectionary products",
+        "Organic fresh vegetable purees",
+        "Frozen non GMO fruits",
+        "Frozen Non GMO vegetables",
+        "Non GMO fresh fruits",
+        "Nutritional supplements",
+        "Seasonings and preservatives",
+        "Canned or jarred non GMO fruits",
+        "Tobacco and smoking products and substitutes",
+        "Organic fresh fruit purees",
+        "Non GMO fresh vegetable purees",
+        "Dried non GMO fruits",
+        "Fresh fruits",
+        "Edible oils and fats",
+        "Frozen fruit",
+        "Dried organic fruit",
+        "Organic fresh vegetables",
+        "Frozen vegetables",
+        "Dried organic vegetables",
+        "Dried Non GMO vegetables",
+        "Non GMO fresh fruit purees",
+        "Dairy products and eggs",
+        "Canned or jarred fruit",
+        "Canned or jarred organic fruit",
+        "Prepared and preserved foods",
+        "Dried vegetables",
+        "Canned or jarred vegetables",
+        "Frozen organic vegetables",
+        "Cereal and pulse products",
+        "Nuts and seeds",
+        "Fresh vegetable purees",
+        "Frozen organic fruit",
+        "Fresh vegetables",
+        "Non GMO fresh vegetables"
+    ],
+    "Drugs and Pharmaceutical Products": [
+        "Autonomic nervous system drugs",
+        "Estrogens and progestins and internal contraceptives",
+        "Amebicides and trichomonacides and antiprotozoals",
+        "Antibacterials",
+        "Antifungal drugs",
+        "Anthelmintics",
+        "Agents affecting water and electrolytes",
+        "Nonsteroidal anti inflammatory drugs NSAIDs",
+        "Antiseptics",
+        "Anaesthetic drugs and related adjuncts and analeptics",
+        "Hypnotics",
+        "Antihypertensive drugs",
+        "Antihyperlipidemic and hypocholesterolemic agents",
+        "Tranquilizers and antimanic and antianxiety drugs",
+        "Antiviral drugs",
+        "Antipsychotics",
+        "Immunomodulating drugs",
+        "Antihistamines or H1 blockers",
+        "Antineoplastic agents",
+        "Herbal drugs",
+        "Drugs affecting the respiratory tract",
+        "Central nervous system drugs",
+        "Drugs affecting the gastrointestinal system",
+        "Drugs affecting the ears, eye, nose and skin",
+        "Corticosteroids",
+        "Hematolic drugs",
+        "Sympathomimetic or adrenergic drugs",
+        "Hormones and hormone antagonists",
+        "Antidepressants",
+        "Antiarrythmics and antianginals and cardioplegics and drugs for heart failure",
+        "Controlled substance analgesics",
+        "Adrenergic blocking agents",
+        "Radiopharmaceuticals and contrast media",
+        "Vasodilators"
+    ],
+    "Domestic Appliances and Supplies and Consumer Electronic Products": [
+        "Bedclothes and table and kitchen linen and towels",
+        "Window treatments",
+        "Floor coverings",
+        "Consumer electronics",
+        "Domestic wall treatments",
+        "Domestic appliances",
+        "Domestic kitchenware and kitchen supplies"
+    ],
+    "Apparel and Luggage and Personal Care Products": [
+        "Footwear",
+        "Luggage and handbags and packs and cases",
+        "Clothing",
+        "Sewing supplies and accessories",
+        "Personal care products"
+    ],
+    "Timepieces and Jewelry and Gemstone Products": [
+        "Timepieces",
+        "Jewelry",
+        "Gemstones"
+    ],
+    "Published Products": [
+        "Electronic reference material",
+        "Printed media",
+        "Signage and accessories"
+    ],
+    "Furniture and Furnishings": [
+        "Classroom and instructional and institutional furniture and fixtures",
+        "Commercial and industrial furniture",
+        "Merchandising furniture and accessories",
+        "Decorative adornments",
+        "Accommodation furniture"
+    ],
+    "Musical Instruments and Games and Toys and Arts and Crafts and Educational Equipment and Materials and Accessories and Supplies": [
+        "Classroom decoratives and supplies",
+        "Musical Instruments and parts and accessories",
+        "Toys and games",
+        "Developmental and professional teaching aids and materials and accessories and supplies",
+        "Arts and crafts equipment and accessories and supplies"
+    ],
+    "Financial Instruments, Products, Contracts and Agreements": [
+        "Insurable interest contracts",
+        "Bank offered products",
+        "Governmental property right conferrals",
+        "General agreements and contracts",
+        "Securities"
+    ],
+    "Farming and Fishing and Forestry and Wildlife Contracting Services": [
+        "Fisheries and aquaculture",
+        "Land and soil preparation and management and protection",
+        "Crop production and management and protection",
+        "Livestock services",
+        "Horticulture",
+        "Water resources development and oversight",
+        "Forestry",
+        "Wildlife and flora"
+    ],
+    "Mining and oil and gas services": [
+        "Mining services",
+        "Oil and gas exploration services",
+        "Oil and gas data management and processing services",
+        "Oil and gas well project management services",
+        "Well drilling and construction services",
+        "Oil and gas extraction and production enhancement services",
+        "Oil and gas restoration and reclamation services"
+    ],
+    "Building and Facility Construction and Maintenance Services": [
+        "Residential building construction services",
+        "Nonresidential building construction services",
+        "Specialized trade construction and maintenance services",
+        "Heavy construction services",
+        "Building and facility maintenance and repair services"
+    ],
+    "Industrial Production and Manufacturing Services": [
+        "Plastic and chemical industries",
+        "Manufacture of electrical goods and precision instruments",
+        "Food and beverage industries",
+        "Manufacturing support services",
+        "Fibers and textiles and fabric industries",
+        "Wood and paper industries",
+        "Machinery and transport equipment manufacture",
+        "Machining and processing services",
+        "Metal and mineral industries"
+    ],
+    "Industrial Cleaning Services": [
+        "Cleaning and janitorial services",
+        "Decontamination services",
+        "Toxic and hazardous waste cleanup",
+        "Refuse disposal and treatment"
+    ],
+    "Environmental Services": [
+        "Environmental protection",
+        "Environmental management",
+        "Pollutants tracking and monitoring and rehabilitation services",
+        "Pollution tracking and monitoring and rehabilitation"
+    ],
+    "Transportation and Storage and Mail Services": [
+        "Transport services",
+        "Mail and cargo transport",
+        "Material packing and handling",
+        "Passenger transport",
+        "Storage",
+        "Transportation repair or maintenance services"
+    ],
+    "Management and Business Professionals and Administrative Services": [
+        "Trade policy and services",
+        "Human resources services",
+        "Public relations and professional communications services",
+        "Legal services",
+        "Real estate services",
+        "Business administration services",
+        "Management advisory services",
+        "Marketing and distribution"
+    ],
+    "Engineering and Research and Technology Based Services": [
+        "Information Technology Service Delivery",
+        "Biological science services",
+        "Manufacturing technologies",
+        "Earth science services",
+        "Economics",
+        "Professional engineering services",
+        "Statistics",
+        "Computer services"
+    ],
+    "Editorial and Design and Graphic and Fine Art Services": [
+        "Graphic design",
+        "Professional artists and performers",
+        "Reproduction services",
+        "Advertising",
+        "Photographic services",
+        "Film and theater production support services",
+        "Writing and translations"
+    ],
+    "Public Utilities and Public Sector Related Services": [
+        "Information services",
+        "Telecommunications media services",
+        "Utilities"
+    ],
+    "Financial and Insurance Services": [
+        "Credit agencies",
+        "Banking and investment",
+        "Accounting and bookkeeping services",
+        "Insurance and retirement services",
+        "Development finance"
+    ],
+    "Healthcare Services": [
+        "Food and nutrition services",
+        "Medical science research and experimentation",
+        "Medical practice",
+        "Disease prevention and control",
+        "Death and dying support services",
+        "Medical Surgical Equipment Maintenance Refurbishment and Repair Services",
+        "Alternative and holistic medicine",
+        "Comprehensive health services"
+    ],
+    "Education and Training Services": [
+        "Alternative educational systems",
+        "Educational facilities",
+        "Educational institutions",
+        "Specialized educational services",
+        "Vocational training"
+    ],
+    "Travel and Food and Lodging and Entertainment Services": [
+        "Performing arts",
+        "Commercial sports",
+        "Hotels and lodging and meeting facilities",
+        "Travel facilitation",
+        "Entertainment services",
+        "Restaurants and catering"
+    ],
+    "Personal and Domestic Services": [
+        "Personal appearance",
+        "Domestic and personal assistance"
+    ],
+    "National Defense and Public Order and Security and Safety Services": [
+        "Security and personal safety",
+        "Public order and safety",
+        "Military services and national defense"
+    ],
+    "Politics and Civic Affairs Services": [
+        "Trade policy and regulation",
+        "Taxation",
+        "International relations",
+        "Community and social services",
+        "Humanitarian aid and relief",
+        "Socio political conditions",
+        "Public administration and finance services",
+        "Political systems and institutions"
+    ],
+    "Organizations and Clubs": [
+        "Work related organizations",
+        "Civic organizations and associations and movements",
+        "Religious organizations",
+        "Clubs"
+    ],
+    "Land and Buildings and Structures and Thoroughfares": [
+        "Prefabricated buildings and structures",
+        "Permanent buildings and structures",
+        "Land parcels",
+        "Thoroughfares",
+        "Portable buildings and structures"
+    ]
+}
